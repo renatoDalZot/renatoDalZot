@@ -12,10 +12,6 @@
 
 ###
 
-<img align="right" height="150" src=""  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -40,7 +36,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/renatoDalZot/renatoDalZot/output/snake.svg" alt="Snake animation" />
 
 ###
